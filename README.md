@@ -1,20 +1,42 @@
 # comScore Analytics SDK for Android
 
-TODO
 Usage
 =====
 
-TODO
+This repository provides a HelloWorld example with the ComScore SDK for tagging the application.
 
 Installation
 ============
 
-// TODO
+Gradle
+---------
+
+In order to add the ComScore android SDK add the following lines in your `gradle.build`: 
+
+
+``
+allprojects {
+    repositories {
+    	...
+        maven {
+            url  "http://comscore.bintray.com/Analytics"
+        }
+    }
+}
+
+...
+
+dependencies {
+	...
+    compile 'com.comscore:android-analytics:5.0.4'
+}
+
+```
 
 Manual
 ------
 
-Refer to the implementation guides for information on how to manually add the framework to your project.
+Refer to the implementation guides for information on how to manually add the library to your project.
 
 Author
 ======
