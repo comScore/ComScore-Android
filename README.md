@@ -3,7 +3,7 @@
 Usage
 =====
 
-This repository provides a HelloWorld example with the ComScore SDK for tagging the application.
+To run the example project, clone this repository and then open the project from within Android Studio IDE.
 
 Installation
 ============
@@ -11,7 +11,7 @@ Installation
 Gradle
 ---------
 
-In order to add the ComScore android SDK add the following lines in your `gradle.build`: 
+In order to add the ComScore android library to your project add the following lines in your `gradle.build` file: 
 
 
 ```
