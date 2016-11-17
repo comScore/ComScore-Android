@@ -14,7 +14,7 @@ Gradle
 In order to add the ComScore android SDK add the following lines in your `gradle.build`: 
 
 
-``
+```
 allprojects {
     repositories {
     	...
