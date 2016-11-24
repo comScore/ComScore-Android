@@ -36,7 +36,10 @@ dependencies {
 Manual
 ------
 
-Please contact your comScore client services representative to acquire the implementation documentation appropriate for your reporting needs. The implementation documentation contains instructions for adding the library to your project, configuring the comScore library and tagging your project.
+There is separate implementation documentation which contains instructions for adding the library to your project, configuring the comScore library and tagging your project.
+
+Please contact your comScore client services representative to acquire the implementation documentation appropriate for your reporting needs. 
+If you do not know who your comScore client services representative is, then please send an e-mail to tagsupport@comscore.com mentioning your client name, comScore client ID and a description of your project and/or reporting needs.
 
 Author
 ======
