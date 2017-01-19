@@ -28,7 +28,7 @@ allprojects {
 
 dependencies {
 	...
-    compile 'com.comscore:android-analytics:5.0.4'
+    compile 'com.comscore:android-analytics:5.+'
 }
 
 ```
