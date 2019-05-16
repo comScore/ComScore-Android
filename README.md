@@ -11,7 +11,7 @@ Installation
 Gradle
 ---------
 
-In order to add the ComScore android library to your project add the following lines in your `gradle.build` file: 
+In order to add the ComScore android library to your project add the following lines in your `build.gradle` file: 
 
 
 ```
