@@ -15,7 +15,6 @@ public class MyApplication extends Application {
 
 
 		PublisherConfiguration publisher = new PublisherConfiguration.Builder()
-				.publisherSecret("9c455c81a801d3832a2cd281843dff30")
 				.publisherId("1000001")
 				.build();
 
