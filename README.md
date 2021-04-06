@@ -24,18 +24,16 @@ In order to add the ComScore android library to your project add the following l
 ```
 allprojects {
     repositories {
+    	mavenCentral()
     	...
-        maven {
-            url  "http://comscore.bintray.com/Analytics"
-        }
     }
 }
 
 ...
 
 dependencies {
-	...
-    compile 'com.comscore:android-analytics:5.+'
+    implementation 'com.comscore:android-analytics:6.+'
+    ...
 }
 
 ```
