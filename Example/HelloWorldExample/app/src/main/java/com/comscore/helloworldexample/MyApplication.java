@@ -11,7 +11,7 @@ public class MyApplication extends Application {
         super.onCreate();
 
         PublisherConfiguration publisher = new PublisherConfiguration.Builder()
-                .publisherId("1000001")
+                .publisherId("1234567")
                 .build();
 
         Analytics.getConfiguration().addClient(publisher);
